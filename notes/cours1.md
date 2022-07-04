@@ -20,6 +20,6 @@ Patron de construction
 
     La classe catalogue prend en parametre une instance d'une classe véhicule qui implémente l'interface Fabrique de véhicule.
 
-  ![Diagramme Abstract Factory](img/abstractfactory.png);
+  ![Diagramme Abstract Factory](img/abstractfactory.png)
 
-  - Description Scooter : Scooter implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente.
+  - Description Scooter : Scooter est une classe abstraite qui implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente. 
