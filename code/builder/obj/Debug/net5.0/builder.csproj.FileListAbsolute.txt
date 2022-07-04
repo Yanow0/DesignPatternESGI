@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\builder.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\builder.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\builder.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\builder.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\builder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\ref\builder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\bin\Debug\net5.0\builder.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\ref\builder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\builder\obj\Debug\net5.0\builder.genruntimeconfig.cache

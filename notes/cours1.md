@@ -23,3 +23,9 @@ Patron de construction
   ![Diagramme Abstract Factory](img/abstractfactory.png)
 
   - Description Scooter : Scooter est une classe abstraite qui implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente.
+
+- Builder : Problematique de base -> Construire des documents à la volée.
+
+But : créer un constructeur de liasse de vehicules. Créer une liasse sans connaitre le type de documents en entrée.
+
+- Factory method : On crée des objets dans une classe mère et le choix des types d’objets à créer est fait dans les sous classes.
