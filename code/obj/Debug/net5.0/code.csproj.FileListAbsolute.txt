@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\code.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\code.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\code.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\code.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\code.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\ref\code.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\bin\Debug\net5.0\code.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\ref\code.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\obj\Debug\net5.0\code.genruntimeconfig.cache
