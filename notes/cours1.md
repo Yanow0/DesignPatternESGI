@@ -22,4 +22,4 @@ Patron de construction
 
   ![Diagramme Abstract Factory](img/abstractfactory.png)
 
-  - Description Scooter : Scooter est une classe abstraite qui implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente. 
+  - Description Scooter : Scooter est une classe abstraite qui implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente.
