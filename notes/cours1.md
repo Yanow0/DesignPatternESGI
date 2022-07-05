@@ -1,10 +1,10 @@
 # **Design Patterns en C#**
 
-## Cours 1
+## **Cours 1**
 
 **Définition Design Pattern** : Schéma d'objets permettant de répondre à un problème courant de conception en POO.
 
-Patron de construction
+### **Patrons de conception**
 
 - Abstract Factory :
 
@@ -29,3 +29,14 @@ Patron de construction
 But : créer un constructeur de liasse de vehicules. Créer une liasse sans connaitre le type de documents en entrée.
 
 - Factory method : On crée des objets dans une classe mère et le choix des types d’objets à créer est fait dans les sous classes.
+
+- Singleton : Le pattern Singleton  permet de créer une instance et de la réutiliser dans l'application. Fournit une méthode de classe (statique) qui permet de retourner cette instance.
+Le patron Abstract est susceptible d'utiliser ce type d'instance unique.
+
+L'application va utiliser la classe liasse vierge (LiasseVierge) qui ne possodera qu'une seule instance.
+
+  ![Liasse Vierge](img/Liassevierge.png)
+
+Chaque classe qui utilise la liasse vierge doit avoir accès à la meme instance. On doit surtout s'arranger pour qu'on ne puisse pas en créer de nouvelles (avec l'opérateur new).
+
+- Prototype : Permet de cloner des objets à partir d'autres objets appelés "prototypes" disposant d'une méthode Clone() qui retourne un objet identique.
