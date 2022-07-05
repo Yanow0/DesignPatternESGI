@@ -6,7 +6,7 @@
 
 ### **Patrons de conception**
 
-- Abstract Factory :
+- **Abstract Factory :**
 
     Une classe mère abstraite est une classe concrète qui va décrire la version du produit.
 
@@ -22,15 +22,15 @@
 
   ![Diagramme Abstract Factory](img/abstractfactory.png)
 
-  - Description Scooter : Scooter est une classe abstraite qui implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente.
+  - **Description Scooter :** Scooter est une classe abstraite qui implémente Catalogue. ScooterElectricité et ScooterEssence héritent de Scooter et implémentent chacun une Fabrique différente.
 
-- Builder : Problematique de base -> Construire des documents à la volée.
+- **Builder :** Problematique de base -> Construire des documents à la volée.
 
 But : créer un constructeur de liasse de vehicules. Créer une liasse sans connaitre le type de documents en entrée.
 
-- Factory method : On crée des objets dans une classe mère et le choix des types d’objets à créer est fait dans les sous classes.
+- **Factory method :** On crée des objets dans une classe mère et le choix des types d’objets à créer est fait dans les sous classes.
 
-- Singleton : Le pattern Singleton  permet de créer une instance et de la réutiliser dans l'application. Fournit une méthode de classe (statique) qui permet de retourner cette instance.
+- **Singleton :** Le pattern Singleton  permet de créer une instance et de la réutiliser dans l'application. Fournit une méthode de classe (statique) qui permet de retourner cette instance.
 Le patron Abstract est susceptible d'utiliser ce type d'instance unique.
 
 L'application va utiliser la classe liasse vierge (LiasseVierge) qui ne possodera qu'une seule instance.
@@ -39,4 +39,26 @@ L'application va utiliser la classe liasse vierge (LiasseVierge) qui ne possoder
 
 Chaque classe qui utilise la liasse vierge doit avoir accès à la meme instance. On doit surtout s'arranger pour qu'on ne puisse pas en créer de nouvelles (avec l'opérateur new).
 
-- Prototype : Permet de cloner des objets à partir d'autres objets appelés "prototypes" disposant d'une méthode Clone() qui retourne un objet identique.
+- **Prototype :** Permet de cloner des objets à partir d'autres objets appelés "prototypes" disposant d'une méthode Clone() qui retourne un objet identique.
+
+## **Patrons de structuration**
+
+**Définition** : Les patterns de structuration permettent de faciliter l'indépendance de l'interface d'un objet et de son implémentation.
+
+En fournissant les interfaces ce pattern permet d'encapsuler la composition des objets.
+
+Cela augmente le niveau d'abstraction d'un système donné, un peu à la manière des patterns de création qui encapsulent la création d'objets.
+
+Ces patterns mettent en avant les interfaces.
+
+### **Exercice : Composition vs Heritage en C#**
+
+Composition : Une instance ou plusieurs instances de classes dans une autre. Permet aux différentes instances d'interagir ensemble.
+
+> <https://itexpert.fr/blog/concepts-fondamentaux-poo/#composition>
+
+Heritage : C’est le fait de baser la définition d’une classe (fille) sur une autre (mère), afin d’en récupérer les membres (champs et méthodes). L'héritage permet d’offrir une même interface de programmation pour des types différents.
+
+> <https://itexpert.fr/blog/concepts-fondamentaux-poo/#h-ritage>
+
+- **Adapter :**
