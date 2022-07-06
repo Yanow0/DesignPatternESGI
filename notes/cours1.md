@@ -61,4 +61,7 @@ Heritage : C’est le fait de baser la définition d’une classe (fille) sur un
 
 > <https://itexpert.fr/blog/concepts-fondamentaux-poo/#h-ritage>
 
-- **Adapter :**
+- **Adapter :** Le but de ce pattern est de convertir l'interface d'une classe donnée en une interface attendue en une interface attendue par des clients afin qu'ils puissent travailler ensemble.
+En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
+
+- **Bridge :** Le pattern Bridge est utilisé pour séparer le comportement de l'implémentation de l'interface et de l'implémentation de l'objet.
