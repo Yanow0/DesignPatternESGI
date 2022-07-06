@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\ref\PizzaBuilder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\ref\PizzaBuilder.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.genruntimeconfig.cache
