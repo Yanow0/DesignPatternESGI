@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\MapBridge.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\MapBridge.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\MapBridge.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\MapBridge.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\MapBridge.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\ref\MapBridge.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\bin\Debug\net5.0\MapBridge.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\ref\MapBridge.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\MapBridge\obj\Debug\net5.0\MapBridge.genruntimeconfig.cache

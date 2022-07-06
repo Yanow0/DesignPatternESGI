@@ -1,10 +1,11 @@
 ﻿using System;
 
 
-class PizzaStore
+class Client
 {
     static void Main(string[] args)
     {
+        //Here we are implementing the builder pattern
         //The waiter creates 2 types of pizza without needing to know the details of the ingredients thanks to the two builders
         Waiter waiter = new Waiter();
         PizzaBuilder easternPizzaBuilder = new EasternPizzaBuilder();

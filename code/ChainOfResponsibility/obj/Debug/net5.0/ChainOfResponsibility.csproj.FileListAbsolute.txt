@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ref\ChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ref\ChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.genruntimeconfig.cache

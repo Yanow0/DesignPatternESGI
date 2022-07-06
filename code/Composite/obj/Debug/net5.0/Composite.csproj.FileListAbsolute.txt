@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\Composite.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\Composite.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\Composite.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\ref\Composite.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\bin\Debug\net5.0\Composite.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\ref\Composite.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache

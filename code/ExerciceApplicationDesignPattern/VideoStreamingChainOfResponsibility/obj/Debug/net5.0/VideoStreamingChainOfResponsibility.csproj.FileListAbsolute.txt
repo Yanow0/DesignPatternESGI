@@ -1,0 +1,16 @@
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.AssemblyInfo.cs
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\VideoStreamingChainOfResponsibility.exe
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\VideoStreamingChainOfResponsibility.deps.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\VideoStreamingChainOfResponsibility.runtimeconfig.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\VideoStreamingChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\VideoStreamingChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\ref\VideoStreamingChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\bin\Debug\net5.0\VideoStreamingChainOfResponsibility.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\ref\VideoStreamingChainOfResponsibility.dll
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.pdb
+C:\Users\yanis.parmentier\Documents\CoursAL\Design Pattern\code\ExerciceApplicationDesignPattern\VideoStreamingChainOfResponsibility\obj\Debug\net5.0\VideoStreamingChainOfResponsibility.genruntimeconfig.cache

@@ -1,10 +1,8 @@
 # **Design Patterns en C#**
 
-## **Cours 1**
-
 **Définition Design Pattern** : Schéma d'objets permettant de répondre à un problème courant de conception en POO.
 
-### **Patrons de conception**
+## **Patrons de construction**
 
 - **Abstract Factory :**
 
@@ -65,3 +63,36 @@ Heritage : C’est le fait de baser la définition d’une classe (fille) sur un
 En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d'un client.
 
 - **Bridge :** Le pattern Bridge est utilisé pour séparer le comportement de l'implémentation de l'interface et de l'implémentation de l'objet.
+
+On s'interesse aux demandes d'immatriculation des véhicules.
+
+Le formulaire de demande d'immatriculation possède deux implémentations différentes.
+
+FormulaireImmat
+
+FormulaireImmatHTML
+
+FormulaireImmatAPP
+
+Au départ le système a été conçu pour la France uniquement. Ensuite on a du créer une sous-classe FormulaireImmatCH. Elle aussi abstraite pour avoir également deux sous-classes concrètes (qui sont FormulaireImmatHTML et FormulaireImmatAPP dédiées à la Suisse).
+
+Le pattern Bridge permet de créer une seul sous classe pour un nouveau pays sans recréer deux classes d'implémentation supplémentaire.
+
+- **Composite :** Le pattern Composite offre un cadre de conception d'une composition d'objets dont on ne connaît pas  la profondeur. (On peut utiliser un arbre en tant qu'analogie).
+
+Les "clients" interagissent avec les objets sans connaître la structure de l'arbre.
+
+- **Decorator :** Le pattern Decorator permet d'ajouter **dynamiquement** des fonctionnalités **supplémentaires** à un objet sans modifier l'interface de l'objet (les clients de l'objet ne sont pas au courant de la modification).
+Il s'agit d'une alternative à la création d'une sous-classe qui permettrait d'enrichir l'objet.
+
+## **Patrons de comportement**
+
+Leur but est de distribuer des traitements/algorithmes entre les objets.
+
+Ils organisent les interactions en renseignant le "flux de controle" et de traitement au sein d'un système d'objets.
+
+La distribution se fait soit par héritage soit par "délégation".
+
+- **Chain of responsibility :** Le pattern Chain of responsibility permet de construire une chaîne d'objets de manière à ce que si un objet de la chaîne ne peut répondre à une requête, il puisse la passer à un "successeur" et ainsi de suite jusqu'à ce qu'un objet puisse y répondre.
+
+- **Command :** Ce pattern transforme une requête en objet, ceci facilite les opérations relatives à la requête. Ex : Annulation, queue, suivi, etc.
